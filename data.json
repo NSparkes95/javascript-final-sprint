@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "firstName": "Kerri",
+        "lastName": "Hill",
+        "age": 25,
+        "birthday": "1999-05-23",
+        "martialStatus": "Single",
+        "gender": "Female",
+        "city": "St.John's"
+    },
+    {
+        "id": 2,
+        "firstName": "Charlie",
+        "lastName": "Johnson",
+        "age": 29,
+        "birthday": "1995-02-12",
+        "martialStatus": "Married",
+        "gender": "Male",
+        "city": "Calgary"
+    },
+    {
+        "id": 3,
+        "firstName": "Alexander",
+        "lastName": "Smith",
+        "age": 32,
+        "birthday": "1992-11-15",
+        "martialStatus": "Divcored",
+        "gender": "Male",
+        "city": "Montreal"
+    },
+    {
+        "id": 4,
+        "firstName": "Lauren",
+        "lastName": "Davis",
+        "age": 38,
+        "birthday": "1986-08-30",
+        "martialStatus": "Single",
+        "gender":"Female",
+        "city": "Halifax"
+    },
+    {
+        "id": 5,
+        "firstName": "Avery",
+        "lastName": "Brown",
+        "age": 42,
+        "birthday": "1982-06-25",
+        "martialStatus": "Widowed",
+        "gender": "Male",
+        "city": "Toronto"
+    }
+]
